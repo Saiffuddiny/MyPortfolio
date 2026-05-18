@@ -223,7 +223,7 @@ export default function App() {
 
         <div className="footer-graphic-box">
           <div className="exact-scene-canvas structural-freeze">
-            <img src="/public/Generated_Images.png" alt="Thibaut Desk Environment Setup" className="scene-background-plate" />
+            <img src="/public/generated_images.png" alt="Thibaut Desk Environment Setup" className="scene-background-plate" />
             <div className="live-screen-viewport">
               <div className="scanlines" />
               <pre className="terminal-content">{displayedCode}</pre>
@@ -249,13 +249,13 @@ export default function App() {
             </div>
             <div className="project-visual-wrapper slider-container">
               <div className="image-slider" ref={sliderRef}>
-                <img src="/public/Screenshot (454).png" alt="Dashboard Panel Interface View" />
-                <img src="/public/Screenshot (455).png" alt="Dashboard Panel Interface View" />
-                <img src="/public/Screenshot (456).png" alt="Dashboard Panel Interface View" />
-                <img src="/public/Screenshot (457).png" alt="Dashboard Panel Interface View" />
-                <img src="/public/Screenshot (458).png" alt="Dashboard Panel Interface View" />
-                <img src="/public/Screenshot (459).png" alt="Dashboard Panel Interface View" />
-                <img src="/public/Screenshot (460).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(454).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(455).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(456).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(457).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(458).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(459).png" alt="Dashboard Panel Interface View" />
+                <img src="/public/screenshot(460).png" alt="Dashboard Panel Interface View" />
               </div>
             </div>
           </div>
@@ -268,7 +268,7 @@ export default function App() {
               <a href="https://cloud.flowiseai.com/chatbot/95832782-11c9-4c77-a59e-71eff19cb60e" target="_blank" rel="noreferrer" onMouseEnter={handleMouseEnterTarget} onMouseLeave={handleMouseLeaveTarget} className="email-btn">{t.projects[1].action}</a>
             </div>
             <div className="project-visual-wrapper video-container">
-              <video src="/public/Proffy.mp4" muted autoPlay loop playsInline className="showcase-video" />
+              <video src="/public/proffy.mp4" muted autoPlay loop playsInline className="showcase-video" />
             </div>
           </div>
 
@@ -292,7 +292,7 @@ export default function App() {
               <a href="https://github.com/Saiffuddiny/breast-Cancer-detection-ML/blob/main/Logistic_Regression.ipynb" target="_blank" rel="noreferrer" onMouseEnter={handleMouseEnterTarget} onMouseLeave={handleMouseLeaveTarget} className="email-btn">{t.projects[3].action}</a>
             </div>
             <div className="project-visual-wrapper">
-              <img src="/public/Screenshot (500).png" alt="" className="showcase-video" />
+              <img src="/public/screenshot(500).png" alt="" className="showcase-video" />
               
             </div>
           </div>
@@ -307,7 +307,7 @@ export default function App() {
         </div>
 
         <div className="hero-laptop-chassis">
-          <img src="/public/Mechanical Keyboard.png" alt="Modern Laptop Casing Showcase" className="laptop-hardware-image" />
+          <img src="/public/mechanicalkeyboard.png" alt="Modern Laptop Casing Showcase" className="laptop-hardware-image" />
         </div>
       </section>
         <div className={`contact-slide-drawer ${isContactOpen ? 'open' : ''}`}>
