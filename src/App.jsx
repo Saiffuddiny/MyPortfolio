@@ -280,7 +280,7 @@ export default function App() {
               <a href="https://github.com/Saiffuddiny/q-learning-tic-tac-toe" target="_blank" rel="noreferrer" onMouseEnter={handleMouseEnterTarget} onMouseLeave={handleMouseLeaveTarget} className="email-btn">{t.projects[2].action}</a>
             </div>
             <div className="project-visual-wrapper video-container">
-              <video src="/public/XO.mp4" muted autoPlay loop playsInline className="showcase-video" />
+              <iframe height="400" width="100%" src="https://www.youtube.com/embed/bkQCffqWj2A" muted autoPlay loop playsInline className="showcase-video1" />
             </div>
           </div>
 
