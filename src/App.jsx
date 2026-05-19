@@ -10,7 +10,11 @@ const translationData = {
     sectionHeader: "Cool things I have built",
     about: {
       title: "About Me",
-      bio: "My name is Saif addin, and I am a Multitalented Computer Science graduate specializing in AI, machine learning, and full-stack development. I focus heavily on structural visual systems, programmatic micro-interactions, and visual clean web design properties."
+      bio: "My name is Saif Addin, I am a Computer Science graduate passionate about AI, machine learning, and building real-world software solutions. I enjoy turning ideas into functional products, whether it’s developing AI-powered systems, creating full-stack applications, or experimenting with intelligent automation and reinforcement learning.
+
+What I enjoy most is solving problems through technology and continuously learning new tools and technologies. I like building projects that combine creativity with engineering, from AI chatbots and inventory systems to user-focused web and mobile applications. I’m also interested in branding and digital strategy, which helps me approach projects with both technical and business thinking.
+
+My goal is to grow into an AI and software engineer capable of building impactful products that improve how people work and interact with technology. I aim to deepen my expertise in artificial intelligence, automation, and scalable system design while contributing to innovative projects that create real value."
     },
     projects: [
       {
@@ -42,7 +46,7 @@ const translationData = {
     sectionHeader: "مشاريع رائعة قمت ببنائها",
     about: {
       title: "من أنا",
-      bio: "أسمي سيف الدين، وأنا خريج علوم حاسب متخصص في الذكاء الاصطناعي، تعلم الآلة، وتطوير الويب و البرامج . أركز بشكل مكثف على الأنظمة البصرية الهيكلية، التفاعلات البرمجية الدقيقة، وخصائص تصميم الويب البصري النظيف."
+      bio: "اسمي سيف الدين، و أنا خريج علوم حاسب شغوف بالذكاء الاصطناعي وتطوير البرمجيات وبناء حلول تقنية حقيقية لها تأثير فعلي. أستمتع بتحويل الأفكار إلى منتجات عملية، سواء من خلال تطوير أنظمة مدعومة بالذكاء الاصطناعي، أو بناء تطبيقات Full Stack، أو تجربة تقنيات الأتمتة والتعلم المعزز. أحب حل المشكلات باستخدام التكنولوجيا والتعلم المستمر لكل ما هو جديد في مجال البرمجة والذكاء الاصطناعي. أستمتع ببناء المشاريع التي تجمع بين الجانب الإبداعي والهندسي، بداية من الـ AI Chatbots وأنظمة إدارة المخزون، وحتى تطبيقات الويب والموبايل المصممة لتقديم تجربة استخدام قوية وعملية. كما أن لدي اهتمامًا بالهوية البصرية والتسويق الرقمي، مما يمنحني نظرة أوسع تربط بين التقنية واحتياجات المستخدم والأعمال. هدفي هو التطور كمهندس ذكاء اصطناعي وبرمجيات قادر على بناء منتجات مؤثرة وابتكارية تحسن طريقة تفاعل الناس مع التكنولوجيا. وأسعى إلى تعميق خبرتي في الذكاء الاصطناعي، وتصميم الأنظمة القابلة للتوسع، مع العمل على مشاريع تصنع قيمة حقيقية.     "
     },
     projects: [
       {
